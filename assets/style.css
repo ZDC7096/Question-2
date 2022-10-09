@@ -1,0 +1,89 @@
+.flex-container{
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+body{
+    background-image: url("../NewBackgroundimage.webp");
+    background-size: cover;
+}
+header{
+    background-color: #b211ee;
+    height: 80px;
+    width: 1200px;
+    position: relative;
+    left: 400px;
+    bottom: 100px;
+    text-align: center;
+    font-size: 50px;
+    font-family: fantasy;
+    border-radius: 10px;
+    
+}
+#btnA{
+    width: 400px;
+    height: 50px;
+    position: relative;
+    left: 25;
+    top: 525;
+    border-radius: 25px;
+    color: #f3fcff;
+    background-color: #b211ee;
+    font-family: fantasy;
+    font-size: 40px;
+}
+#btnB{
+    width: 400px;
+    height: 50px;
+    position: relative;
+    left: 400;
+    top: 525;
+    border-radius: 25px;
+    color: #f3fcff;
+    background-color: #b211ee;
+    font-family: fantasy;
+    font-size: 40px;
+}
+#btnC{
+    width: 400px;
+    height: 50px; 
+    position: relative;
+    top: 580;
+    right: 500;
+    border-radius: 25px;
+    color: #f3fcff;
+    background-color: #b211ee;
+    font-family: fantasy;
+    font-size: 40px;
+}
+#btnD{
+    width: 400px;
+    height: 50px;  
+    position: relative; 
+    top: 530p;
+    left: 400p;
+    border-radius: 25px;
+    background-color: #b211ee;
+    color: #f3fcff;
+    font-family: fantasy;
+    font-size: 40px;
+}
+.question{
+    background: blue;
+    background-color: #b211ee;
+    height: 400px;
+    width: 800px;
+    position: relative;
+    top: 180px;
+   right: 300px;
+   left: 500p;
+    border-radius: 60px;
+}
+.answer{
+    position: relative;
+    display: inline-fle;
+    height: 400px;
+    align-content: cente;
+    top: 300px;
+    right: 500px;
+}
