@@ -4,11 +4,11 @@
     align-items: center;
 }
 body{
-    background-image: url("../NewBackgroundimage.webp");
+    background-image: url("../backgroundImageQ2.jpg");
     background-size: cover;
 }
 header{
-    background-color: #b211ee;
+    background-color: #68df20;
     height: 80px;
     width: 1200px;
     position: relative;
@@ -28,7 +28,7 @@ header{
     top: 525;
     border-radius: 25px;
     color: #f3fcff;
-    background-color: #b211ee;
+    background-color: #68df20;
     font-family: fantasy;
     font-size: 40px;
 }
@@ -40,7 +40,7 @@ header{
     top: 525;
     border-radius: 25px;
     color: #f3fcff;
-    background-color: #b211ee;
+    background-color: #68df20;
     font-family: fantasy;
     font-size: 40px;
 }
@@ -52,7 +52,7 @@ header{
     right: 500;
     border-radius: 25px;
     color: #f3fcff;
-    background-color: #b211ee;
+    background-color: #68df20;
     font-family: fantasy;
     font-size: 40px;
 }
@@ -63,14 +63,14 @@ header{
     top: 530p;
     left: 400p;
     border-radius: 25px;
-    background-color: #b211ee;
+    background-color: #68df20;
     color: #f3fcff;
     font-family: fantasy;
     font-size: 40px;
 }
 .question{
     background: blue;
-    background-color: #b211ee;
+    background-color: #68df20;
     height: 400px;
     width: 800px;
     position: relative;
